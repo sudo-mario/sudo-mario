@@ -18,7 +18,7 @@ I'm a dev who builds solid stuff. I’m all about clean code and getting things 
 
 Here’s some of the stuff I’ve worked on:
 
-2. **Project 1**  
+1. **Project 1**  
    - A HTML+ CSS bio page.  
    - [See the code](https://github.com/sudo-mario/mybio)
 
